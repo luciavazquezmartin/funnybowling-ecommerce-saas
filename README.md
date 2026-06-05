@@ -27,5 +27,5 @@ El sistema está diseñado para soportar tres niveles de acceso diferenciados pa
 
 ---
 
-## Entorno de pruebas (Demo)
+## Entorno de pruebas
 El proyecto incluye un entorno funcional desplegado (`funnybowling.com`). Las credenciales de acceso para probar los diferentes niveles de permisos (jugador, trabajador, superadministrador) se encuentran detalladas en el **Anexo I** del documento PDF adjunto.
